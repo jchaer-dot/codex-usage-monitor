@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+dist/
+tmp/
+.vs/
+.env*
+*.user
+*.jsonl
+settings.json
+local-usage-summary.json
